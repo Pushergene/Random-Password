@@ -1,5 +1,5 @@
 CHARS = 'abcdefghijklmnopqrstuvwx'
-FINDIK = '12345'
+FINDIK = '123456789'
 
 def Random(length)
     generate = ''
