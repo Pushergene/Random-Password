@@ -1,4 +1,4 @@
-CHARS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890@*!#%=$€£&-?()/\[]<>{}'
+CHARS = 'abcdefghijklmnopqrstuvwx'
 
 def Random(length)
     generate = ''
@@ -8,5 +8,6 @@ def Random(length)
     
     generate 
 end
-
+for generate in 0..5
 puts Random 10
+end
