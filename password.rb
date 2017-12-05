@@ -1,4 +1,4 @@
-CHARS = 'abcdefghijklmnopqrstuvwxABCDEFGHIJKLMNOPQRSTUVWX123456789!~=}*#$_\-'
+CHARS = 'abcdefghijklmnopqrstuvwxABCDEFGHIJKLMNOPQRSTUVWX123456789!~@,:;=}*#<>|{%§/$_\-'
 FINDIK = '123456789'
 
 def Random(length)
