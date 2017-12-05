@@ -1,4 +1,4 @@
-CHARS = 'abcdefghijklmnopqrstuvwx'
+CHARS = 'abcdefghijklmnopqrstuvwxABCDEFGHIJKLMNOPQRSTUVWX123456789!~=}*#$_\-'
 FINDIK = '123456789'
 
 def Random(length)
@@ -10,7 +10,7 @@ def Random(length)
     generate 
 end
 for generate in 0..5
-puts Random 10
+puts Random 20
 end
 def Lulz(length)
     generate1 = ''
